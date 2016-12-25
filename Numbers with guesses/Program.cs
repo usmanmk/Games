@@ -53,6 +53,7 @@ namespace Numbers_with_guesses
                 }
                 if (option == "6" || option == "~")
                 {
+                    //jhgtf
                     //   Environment.Exit(0);
                     break;
                 }
